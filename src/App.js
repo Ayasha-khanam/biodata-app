@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Biodata from './components/Biodata'
 function App() {
